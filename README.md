@@ -2,6 +2,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Available Scripts
 
+You can visit the site here at https://react-weather-app-q.herokuapp.com/ or run it locally by following the steps below
+
 In the project directory, you can run:
 
 ### `npm start`
